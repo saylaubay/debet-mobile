@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    tools:context=".CompanyActivity">
+
+    <TextView
+        android:id="@+id/tema"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To'lew bo'limi"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginBottom="20dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal" />
+
+    <EditText
+        android:id="@+id/etSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:inputType="phone"
+        android:hint="Telefon nomer"/>
+
+
+    <Button
+        android:id="@+id/searchBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Izlew"
+        android:textStyle="bold"
+        android:padding="12dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        />
+
+    <ListView
+        android:id="@+id/search_contr_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="#94D6F4"
+        android:dividerHeight="1dp"
+        />
+
+
+</LinearLayout>

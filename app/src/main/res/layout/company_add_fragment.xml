@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    tools:context=".CompanyActivity">
+
+    <TextView
+        android:id="@+id/tema"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Firma qosiw bo'limi"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginBottom="40dp"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kompaniyanin' atin kiritin'"
+        android:layout_marginBottom="5dp"
+        />
+
+    <EditText
+        android:id="@+id/etCompany"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:inputType="text"
+        android:hint="Kompaniya"/>
+
+
+    <Button
+        android:id="@+id/addBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Qosiw"
+        android:textStyle="bold"
+        android:padding="12dp"
+        android:layout_marginTop="30dp"
+        />
+
+
+</LinearLayout>

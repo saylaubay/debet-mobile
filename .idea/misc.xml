@@ -1,0 +1,63 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.142" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/drawable/ic_calc.xml" value="0.1345" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/drawable/ic_journal.xml" value="0.1415" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/drawable/ic_lock.xml" value="0.1355" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/drawable/radius.xml" value="0.1345" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout-v21/my_report_fragment.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_buy.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_calc.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_client.xml" value="0.1" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_company.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_debet.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_explore.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_journal.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_pay.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_report.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/activity_user.xml" value="0.16802536231884058" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/all_report_fragment.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/client_add_fragment.xml" value="0.16802536231884058" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/client_list.xml" value="0.16802536231884058" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/client_list_fragment.xml" value="0.2" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/company_add_fragment.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/company_fragment.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/company_list_fragment.xml" value="0.16802536231884058" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/company_report_fragment.xml" value="0.19746376811594202" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/contract_add_fragment.xml" value="0.2015625" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/contract_list_fragment.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/custom_dialog.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/debet_no_payed_list.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/debet_no_payed_list_fragment.xml" value="0.22" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/debet_payed_list_fragment.xml" value="0.1933876811594203" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/item_client.xml" value="0.20260416666666667" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/item_company.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/item_contract.xml" value="0.18" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/item_debet.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/item_user.xml" value="0.18704710144927536" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/my_report_fragment.xml" value="0.22" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/no_payed_fragment.xml" value="0.17391304347826086" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/pay_item.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/pay_list_fragment.xml" value="0.1" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/pay_search_fragment.xml" value="0.17481884057971014" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/payed_fragment.xml" value="0.17391304347826086" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/sample.xml" value="0.2015625" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/test.xml" value="0.2015625" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/tst.xml" value="0.18704710144927536" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/user_add_fragment.xml" value="0.25" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/layout/user_list_fragment.xml" value="0.18" />
+        <entry key="..\:/Projects/android studio/debet-app-mobile/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.136" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
